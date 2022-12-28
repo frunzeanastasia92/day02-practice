@@ -6,6 +6,7 @@ public class Sales {
 
     //...
     //30 % off
+    //40 % off
 
     //More sales items added
 }
